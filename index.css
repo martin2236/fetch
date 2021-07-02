@@ -1,0 +1,45 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    max-width:960px;
+    Height:68px;
+    background-color: #FFF159;
+    justify-content: center;
+    align-items: center;
+}
+.buscador{
+    Width:375px;
+    Height:44px;
+}
+.boton{
+    Width:121px;
+    Height:44px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 14px;
+}
+.lista{
+    margin: 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.prod-container{
+    width: 510px;
+    height: 130px;
+    margin: 16px auto;
+}
+li{
+  border: 1px solid black;  
+  Width:510px;
+  Height:130px;
+}
+.img{
+    Width:128px;
+    Height:119px;
+}
+p{
+    display: inline;
+    margin-top: 10px;
+}
